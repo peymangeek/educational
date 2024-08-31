@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "Sans-Thin";
+    src: url('../../public/fonts/IranSans-Thin.woff');
+}
+
+@font-face {
+    font-family: "Sans-Light";
+    src: url('../../public/fonts/IranSans-Light.woff');
+}
+
+@font-face {
+    font-family: "Sans-Regular";
+    src: url('../../public/fonts/IranSans-Regular.woff');
+}
+
+@font-face {
+    font-family: "Sans-Medium";
+    src: url('../../public/fonts/IranSans-Medium.woff');
+}
+
+@font-face {
+    font-family: "Sans-DemiBold";
+    src: url('../../public/fonts/IranSans-DemiBold.woff');
+}
+
+@font-face {
+    font-family: "Sans-Bold";
+    src: url('../../public/fonts/IranSans-Bold.woff');
+}
+
+@font-face {
+    font-family: "Sans-ExtraBold";
+    src: url('../../public/fonts/IranSans-ExtraBold.woff');
+}
+
+@font-face {
+    font-family: "Sans-Black";
+    src: url('../../public/fonts/IranSans-Black.woff');
+}

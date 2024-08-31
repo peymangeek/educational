@@ -1,8 +1,11 @@
+import Header from '@/components/layout/header/Header'
 import React from 'react'
 
 const index = () => {
   return (
-    <div>index</div>
+    <>
+    <Header />
+    </>
   )
 }
 
